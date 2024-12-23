@@ -1,0 +1,10 @@
+# Ignorar archivos y directorios generados por el IDE
+.idea/
+build/
+nbproject/private/
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+
+# Ignorar archivos de sistema
+*.class
+*.iml
